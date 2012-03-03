@@ -1,0 +1,23 @@
+# # ignore extension-less files (compiled filter)
+# #############################
+#*
+#!*.*
+
+# editor temp files
+*~
+
+# ######################################## #
+# # http://help.github.com/ignore-files/ # #
+# ######################################## #
+
+
+# # Private #
+# ###########
+.ssh
+ssh
+id_rsa
+id_dsa
+identity
+.gitconfig
+.gitconfig*
+
